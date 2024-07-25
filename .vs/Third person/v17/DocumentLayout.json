@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Projects\\Third Person\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\playerdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\orbitcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbitcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|c:\\unity\\projects\\third person\\assets\\scripts\\dooropener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\triggerscriptdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerscriptdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\managerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\guibasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guibasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|C:\\Unity\\Projects\\Third Person\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB7C14-88CB-2B4A-C646-FD16AFD56AAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:08:20.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollectibleItem.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\CollectibleItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectibleItem.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\CollectibleItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectibleItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:20:20.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerStatus.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\ManagerStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManagerStatus.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\ManagerStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManagerStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:04:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIcontroller.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\UIcontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIcontroller.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\UIcontroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIcontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:09:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerDirection.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\PlayerDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDirection.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\PlayerDirection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDirection.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwIwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:13:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "triggerScriptDoor.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\triggerScriptDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\triggerScriptDoor.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\triggerScriptDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\triggerScriptDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:48:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoorOpener.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\DoorOpener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpener.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\DoorOpener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorOpener.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:37:04.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:33:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IgameManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\IgameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IgameManager.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\IgameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IgameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:03:56.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrbitCamera.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\OrbitCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OrbitCamera.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\OrbitCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OrbitCamera.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:51:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:49:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GUIBasic.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\GUIBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GUIBasic.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\GUIBasic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GUIBasic.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:44:24.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Managers.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\Managers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\Managers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:21:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Unity\\Projects\\Third Person\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:03:00.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
